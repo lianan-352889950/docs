@@ -29,7 +29,7 @@ In the course of development, this roadmap is subject to change based on user ne
         <ul>
           <li>
             <b>Distributed execution framework</b><br /><i>
-            Distributed execution framework v7.2 introduced the foundation for executing background tasks (i.e., DDL, analyze, etc.) parallelized across compute nodes.  v7.4 introduces global sorting in distributed re-organization tasks (i.e., DDL, import) removes a ton of extra resource consumption in storage. Optionally, external shared storage can be leveraged for simplicity and cost savings.</i>
+            In v7.2.0, TiDB introduced the distributed execution framework for background tasks (such as DDL and analyze). This is the foundation for parallelizing these tasks across compute nodes. v7.4.0 introduces global sorting in distributed re-organization tasks (such as DDL and import), which greatly mitigates extra resource consumption in storage. Optionally, external shared storage can be leveraged for simplicity and cost savings</i>
           </li>
           <br />
           <br />
