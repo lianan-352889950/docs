@@ -57,7 +57,7 @@ In the course of development, this roadmap is subject to change based on user ne
           <br />
           <li>
             <b>Federated query</b>
-            <i>TiDB query planner support for multiple storage engines in HTAP use cases.</i>
+            <br /><i>TiDB query planner support for multiple storage engines in HTAP use cases.</i>
           </li>
           <br />
         </ul>
